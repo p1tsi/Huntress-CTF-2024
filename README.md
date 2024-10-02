@@ -19,3 +19,7 @@ Base64by32: As the name suggests...
 MatryoshkaQR: As the name suggests...
 
         flag{01c6e24c48f48856ee3adcca00f86e9b}
+
+No Need For Brutus: ROT13 (10)
+
+        flag{c945bb2173e7da5a292527bbbc825d3f}
