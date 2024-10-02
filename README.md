@@ -15,3 +15,7 @@ Read The Rules: HTML comment inside /rules
 Base64by32: As the name suggests...
 
         flag{8b3980f3d33f2ad2f531f5365d0e3970}
+
+MatryoshkaQR: As the name suggests...
+
+        flag{01c6e24c48f48856ee3adcca00f86e9b}
