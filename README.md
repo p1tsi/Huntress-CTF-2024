@@ -36,3 +36,9 @@ Hello Sarah
 ```
 
         flag{54c6ec05ca19565754351b7fcf9c03b2}
+```
+
+Cattle: Esoteric Program Language. Find a compiler online and...
+
+        flag{6cd6392eb609c6ae4c332ef6a321d9dd}
+
