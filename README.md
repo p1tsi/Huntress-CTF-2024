@@ -23,3 +23,16 @@ MatryoshkaQR: As the name suggests...
 No Need For Brutus: ROT13 (10)
 
         flag{c945bb2173e7da5a292527bbbc825d3f}
+
+Red Phish Blue Phish
+
+```HELO pyrchdata.com
+MAIL FROM: jdaveren@pyrchdata.com
+RCPT TO: swilliams@pyrchdata.com
+DATA
+Hello Sarah
+.
+
+```
+
+        flag{54c6ec05ca19565754351b7fcf9c03b2}
