@@ -42,3 +42,7 @@ Cattle: Esoteric Program Language. Find a compiler online and...
 
         flag{6cd6392eb609c6ae4c332ef6a321d9dd}
 
+Whamazon. Try to buy -1000000000 apples..
+
+        flag{18bdd83cee5690321bb14c70465d3408}
+
