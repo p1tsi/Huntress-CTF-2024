@@ -50,3 +50,6 @@ Unbelievable: Always check the magic bytes of a file...
 
         flag{a85466991f0a8dc3d9837a5c32fa0c91}
 
+Discount Programming Devices: Just print it.
+
+        flag{2543ff1e714bC2eb9ff78128232785ad}
