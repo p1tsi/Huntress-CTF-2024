@@ -62,3 +62,7 @@ Strange Calc: Execution + Microsoft Script decoding + JS beautify + code analysi
 
         flag{14e072f705d45882401d141c562fdc0b}
 
+Russian Roulette: .Lnk Malware + Deobfuscation PowerShell script + AES decryption
+
+        flag{4e4f266d44717ff3af8bd92d292b79ec}
+
