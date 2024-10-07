@@ -46,3 +46,7 @@ Whamazon. Try to buy -1000000000 apples..
 
         flag{18bdd83cee5690321bb14c70465d3408}
 
+Unbelievable: Always check the magic bytes of a file...
+
+        flag{a85466991f0a8dc3d9837a5c32fa0c91}
+
