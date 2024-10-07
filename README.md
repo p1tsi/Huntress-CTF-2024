@@ -58,3 +58,7 @@ TXT Message: TXT record + Octal decoding
 
         flag{14e072f705d45882401d141c562fdc0b}
 
+Strange Calc: Execution + Microsoft Script decoding + JS beautify + code analysis 
+
+        flag{14e072f705d45882401d141c562fdc0b}
+
