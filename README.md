@@ -53,3 +53,8 @@ Unbelievable: Always check the magic bytes of a file...
 Discount Programming Devices: Just print it.
 
         flag{2543ff1e714bC2eb9ff78128232785ad}
+
+TXT Message: TXT record + Octal decoding
+
+        flag{14e072f705d45882401d141c562fdc0b}
+
