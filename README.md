@@ -66,3 +66,8 @@ Russian Roulette: .Lnk Malware + Deobfuscation PowerShell script + AES decryptio
 
         flag{4e4f266d44717ff3af8bd92d292b79ec}
 
+Mimi: dump analysis with mimikatz/pypykatz
+
+        flag{7a565a86761a2b89524bf7bb0d19bcea}
+
+
