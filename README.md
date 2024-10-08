@@ -71,9 +71,14 @@ Mimi: dump analysis with mimikatz/pypykatz
         flag{7a565a86761a2b89524bf7bb0d19bcea}
 
 Nightmare on Hunt Street Serie:
+        
         1.         10.1.1.42   (EVENT ID 4624)
+        
         2.         32           (filter on event id 4624)
+       
         3.         psexec       (attack from Kali machine)
+       
         4.         3            (filter again on cmds...)
+       
         5.         Susan123!    (Check net.exe commands...)
 
