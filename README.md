@@ -93,3 +93,7 @@ Mistery: Enigma M3 decoding + message reconstruction
 I Can't SSH: A newline makes the difference.
         
         flag{fdfeabcacbebfbadaefbeccaadddbafe}
+
+Ran Somewhere: Check the email > Check the company's website > Check where is that coffee shop...
+
+        Bel Air Armory
