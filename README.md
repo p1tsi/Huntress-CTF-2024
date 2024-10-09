@@ -85,3 +85,7 @@ Nightmare on Hunt Street Serie:
 Zimmer Down: Registry Explorer + base62 decoding of a strange string
         
         flag{4b676ccc1070be66b1a15dB601c8d500}
+
+Mistery: Enigma M3 decoding + message reconstruction
+        
+        flag{fdfeabcacbebfbadaefbeccaadddbafe}
