@@ -89,3 +89,7 @@ Zimmer Down: Registry Explorer + base62 decoding of a strange string
 Mistery: Enigma M3 decoding + message reconstruction
         
         flag{fdfeabcacbebfbadaefbeccaadddbafe}
+
+I Can't SSH: A newline makes the difference.
+        
+        flag{fdfeabcacbebfbadaefbeccaadddbafe}
