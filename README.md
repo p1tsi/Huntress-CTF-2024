@@ -97,3 +97,7 @@ I Can't SSH: A newline makes the difference.
 Ran Somewhere: Check the email > Check the company's website > Check where is that coffee shop...
 
         Bel Air Armory
+
+Finders Fee: Find a SGID binary and you'll get the flag.
+
+        flag{5da1de289823cfc200adf91d6536d914}
