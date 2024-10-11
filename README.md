@@ -110,4 +110,7 @@ Malibu: bucket enumeration AWS S3 + bucket sync + grep -Ri flag
 
         flag{800e6603e86fe0a68875d3335e0daf81}
 
-        
+  Typo: Print the flag over SSH
+
+        flag{36a0354fbf59df454596660742bf09eb}
+      
