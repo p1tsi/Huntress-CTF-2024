@@ -106,4 +106,8 @@ OceanLocust: Study PNG file format + try to encode a payload in a sample png + c
 
         flag{fec87c690b8ec8d65b8bb10ee7bb65d0}
 
+Malibu: bucket enumeration AWS S3 + bucket sync + grep -Ri flag
+
+        flag{800e6603e86fe0a68875d3335e0daf81}
+
         
