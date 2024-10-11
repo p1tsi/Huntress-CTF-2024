@@ -101,3 +101,9 @@ Ran Somewhere: Check the email > Check the company's website > Check where is th
 Finders Fee: Find a SGID binary and you'll get the flag.
 
         flag{5da1de289823cfc200adf91d6536d914}
+
+OceanLocust: Study PNG file format + try to encode a payload in a sample png + check the differences...
+
+        flag{fec87c690b8ec8d65b8bb10ee7bb65d0}
+
+        
