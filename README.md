@@ -110,7 +110,13 @@ Malibu: bucket enumeration AWS S3 + bucket sync + grep -Ri flag
 
         flag{800e6603e86fe0a68875d3335e0daf81}
 
-  Typo: Print the flag over SSH
+Typo: Print the flag over SSH
 
         flag{36a0354fbf59df454596660742bf09eb}
+
+Hidden Streams: there is only one event with id 15 and an encoded content
+
+        flag{bfefb891183032f44fa93d0c7bd40da9}
+
+        
       
