@@ -118,5 +118,9 @@ Hidden Streams: there is only one event with id 15 and an encoded content
 
         flag{bfefb891183032f44fa93d0c7bd40da9}
 
-        
+Obfuscation Station: Just decode the PowerShell script (~Google~ ChatGPT is your friend)
+
+        flag{3ed675ef0343149723749c34fa910ae4}
+
+
       
