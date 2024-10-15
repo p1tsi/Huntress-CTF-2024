@@ -122,5 +122,11 @@ Obfuscation Station: Just decode the PowerShell script (~Google~ ChatGPT is your
 
         flag{3ed675ef0343149723749c34fa910ae4}
 
+Little Shop of Hashes:
 
+        1.
+        2. Pass-the-Hash
+        3. C:\Users...
+        4. 3
+        5. 
       
