@@ -128,5 +128,5 @@ Little Shop of Hashes:
         2. Pass-the-Hash
         3. C:\Users\DeeDee\Documents\runasc.exe
         4. 3
-        5. 
+        5. C:\Users\DeeDee\Documents\nc.exe
       
