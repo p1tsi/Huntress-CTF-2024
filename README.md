@@ -126,7 +126,7 @@ Little Shop of Hashes:
 
         1.
         2. Pass-the-Hash
-        3. C:\Users...
+        3. C:\Users\DeeDee\Documents\runasc.exe
         4. 3
         5. 
       
