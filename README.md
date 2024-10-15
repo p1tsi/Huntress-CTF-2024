@@ -129,4 +129,9 @@ Little Shop of Hashes:
         3. C:\Users\DeeDee\Documents\runasc.exe
         4. 3
         5. C:\Users\DeeDee\Documents\nc.exe
-      
+
+Sekiro: Check out the python script in this repo
+
+        flag{a1ae4e5604576818132ce3bfebe95de5}
+
+        
