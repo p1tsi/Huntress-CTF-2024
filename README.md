@@ -134,4 +134,8 @@ Sekiro: Check out the python script in this repo
 
         flag{a1ae4e5604576818132ce3bfebe95de5}
 
-        
+Echo Chamber: Just get ICMP packets data from request || reply (mind the echo..)
+
+        flag{6b38aa917a754d8bf384dc73fde633ad}
+
+
