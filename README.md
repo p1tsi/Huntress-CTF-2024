@@ -142,6 +142,11 @@ Baby Buffer Overflow: check the python script
 
         flag{4cd3b4079393e861af489ca063373f98}
 
+Linux Basics: answer to basic Linux questions
+
+        flag{8873fe66f8e7a6019d7d71261864f6c5}
+
+
 
 
 
