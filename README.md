@@ -146,6 +146,11 @@ Linux Basics: answer to basic Linux questions
 
         flag{8873fe66f8e7a6019d7d71261864f6c5}
 
+The void: highlight the black characters
+
+        flag{b1370ac4fadd8c0237f8771d7d77286a}
+
+        
 
 
 
