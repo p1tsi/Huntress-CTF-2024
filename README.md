@@ -154,6 +154,6 @@ The void: highlight the black characters
 
         flag{74235a9216ee609538022e6689b4de5c}     
 
+ Keyboard Junkie: USB data analysis + data extraction + USB keypress decompression
 
-
-
+        flag{74235a9216ee609538022e6689b4de5c} 
