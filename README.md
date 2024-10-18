@@ -157,3 +157,8 @@ The void: highlight the black characters
  Keyboard Junkie: USB data analysis + data extraction + USB keypress decompression
 
         flag{74235a9216ee609538022e6689b4de5c} 
+
+GoCrackMe1: Just look at main function. Find ciphertext, key and XOR them
+
+        flag{bb59566e21f55e5680d589f3dbbec0f8}
+        
