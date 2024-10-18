@@ -150,7 +150,9 @@ The void: highlight the black characters
 
         flag{b1370ac4fadd8c0237f8771d7d77286a}
 
-        
+ Zulu: 7z e zulu
+
+        flag{74235a9216ee609538022e6689b4de5c}     
 
 
 
