@@ -161,4 +161,8 @@ The void: highlight the black characters
 GoCrackMe1: Just look at main function. Find ciphertext, key and XOR them
 
         flag{bb59566e21f55e5680d589f3dbbec0f8}
+
+Stack it: Check out the relative Python script
+
+        flag{b4234f4bba4685dc84d6ee9a48e9c106}
         
