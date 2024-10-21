@@ -170,4 +170,8 @@ Eco-friendly: Decoding stuff
 
         flag{8ba43de1e095287dbbf7722e51239a63}
 
+Strive Marish Leadman TypeCDR: Decrypt data given by the service with RSA 
+
+        flag{cf614b15ac1dd461a2e48afdfe21b8e8}
+
         
