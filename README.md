@@ -165,4 +165,9 @@ GoCrackMe1: Just look at main function. Find ciphertext, key and XOR them
 Stack it: Check out the relative Python script
 
         flag{b4234f4bba4685dc84d6ee9a48e9c106}
+
+Eco-friendly: Decoding stuff
+
+        flag{8ba43de1e095287dbbf7722e51239a63}
+
         
