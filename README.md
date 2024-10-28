@@ -182,4 +182,12 @@ Y2J:
 
         flag{b20870a1955ac22377045e3b2dcb832a}
 
+Plantopia: cookie base64 decoding + privilege escalation + command injection
+
+        flag{c29c4d53fc432f7caeb573a9f6eae6c6}
+
+PillowFight: CVE-2022-22817
+
+        flag{b6b62e6c5cdfda3b3a8b87d90fd48d01}
+
   
