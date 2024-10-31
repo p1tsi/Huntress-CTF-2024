@@ -193,6 +193,10 @@ PillowFight: CVE-2022-22817
 Time will tell: attack timing string comparison in Python
 
         flag{ab6962e29ed608c0710dbf2910f358d5}
+
+HelpfulDesk: dnSpy + find the differences between 1.1 and 1.2
+
+        flag{03a6f458b7483e93c37bd94b6dda462b}
         
 
   
