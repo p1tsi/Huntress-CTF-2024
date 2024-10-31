@@ -197,6 +197,7 @@ Time will tell: attack timing string comparison in Python
 HelpfulDesk: dnSpy + find the differences between 1.1 and 1.2
 
         flag{03a6f458b7483e93c37bd94b6dda462b}
-        
 
-  
+Zippy: Razor Pages webshell upload via path traversal (zippy.cshtml)
+
+        flag{a074eb7973c4c718790baefc096654dd}
